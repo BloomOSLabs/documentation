@@ -1,0 +1,14 @@
+{
+  "codename": "OP4C7D",
+  "name": "Oppo A31",
+  "manufacturer": "OPPO",
+  "status": "Official",
+  "android": "9",
+  "maintainers": [
+    {
+      "name": "BloomOS Labs",
+      "github": "BloomOSLabs",
+      "telegram": "BloomOSLabs"
+    }
+  ]
+}
