@@ -1,11 +1,3 @@
----
-
-title: Installing BloomOS on OPPO A31
-description: Official installation instructions for the OPPO A31 (OP4C7D).
-author: Stanly Silas
-updated: 2026-06-27
--------------------
-
 # Installing BloomOS on OPPO A31 (OP4C7D)
 
 > [!WARNING]
