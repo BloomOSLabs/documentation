@@ -1,14 +1,31 @@
 {
   "codename": "OP4C7D",
-  "name": "Oppo A31",
+  "alternateCodenames": [
+    "CPH2015"
+  ],
+  "name": "OPPO A31",
   "manufacturer": "OPPO",
   "status": "Official",
   "android": "9",
   "maintainers": [
     {
-      "name": "BloomOS Labs",
+      "name": "Stanly Silas",
       "github": "BloomOSLabs",
       "telegram": "BloomOSLabs"
     }
-  ]
+  ],
+  "downloads": {
+    "rom": "https://bloomoslabs.github.io/downloads/OP4C7D",
+    "recovery": "https://bloomoslabs.github.io/downloads/OP4C7D",
+    "boot": "https://bloomoslabs.github.io/downloads/OP4C7D",
+    "vbmeta": "https://bloomoslabs.github.io/downloads/OP4C7D"
+  },
+  "features": {
+    "ota": true,
+    "selinux": "Permissive",
+    "encryption": false,
+    "avb": false
+  },
+
+  "lastUpdated": "2026-06-27"
 }
