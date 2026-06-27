@@ -1,9 +1,3 @@
----
-
-title: Installation
-description: General installation workflow for BloomOS.
--------------------------------------------------------
-
 # Installation
 
 This guide describes the general installation workflow used by all officially supported BloomOS devices.

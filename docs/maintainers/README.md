@@ -1,9 +1,3 @@
----
-
-title: Maintainer Documentation
-description: Documentation for official BloomOS maintainers.
-------------------------------------------------------------
-
 # Maintainer Documentation
 
 This section is intended for official BloomOS device maintainers.

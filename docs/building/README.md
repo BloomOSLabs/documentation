@@ -1,9 +1,3 @@
----
-
-title: Building BloomOS
-description: Compile BloomOS from source.
------------------------------------------
-
 # Building BloomOS
 
 BloomOS is built entirely from source using the Android Open Source Project build system.

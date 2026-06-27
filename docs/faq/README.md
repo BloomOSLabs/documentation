@@ -1,9 +1,3 @@
----
-
-title: Frequently Asked Questions
-description: Common questions about BloomOS.
---------------------------------------------
-
 # Frequently Asked Questions
 
 ## What is BloomOS?

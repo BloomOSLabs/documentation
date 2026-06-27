@@ -1,9 +1,3 @@
----
-
-title: Contributing
-description: Help improve BloomOS.
-----------------------------------
-
 # Contributing
 
 BloomOS is an open-source project and welcomes contributions from developers, designers, translators and testers.
